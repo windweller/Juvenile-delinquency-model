@@ -7,7 +7,7 @@ For anyone who wants to check out the model or modify it, the language is NetLog
 http://ccl.northwestern.edu/netlogo/
 
 This model is already published in NetLogo Modeling Commons:
-http://modelingcommons.org/account/
+http://modelingcommons.org/browse/one_model/3952
 
 Also you can find our research paper attached in. Our BehaviorSpace experiment data is seperated from our paper and is downloadable as well.
 

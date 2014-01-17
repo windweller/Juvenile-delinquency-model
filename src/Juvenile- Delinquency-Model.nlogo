@@ -545,31 +545,28 @@ This model uses parameters and statistics from Agnew’s book Juvenile Delinquen
 
 ## HOW TO USE IT
 
-(how to use the model, including a description of each of the items in the Interface tab)
+Users can control four slide bars to distribute funding by proportion. Also they can change investment method to be more agressive, smooth or delayed (this is partially implemented), now it has no effect on the result of model. Change in community attitude will affect community parameters. Additional funding can be assigned, if the ideal result can't be achieved.
+
+Red square indicates delinquent activity commited. The shade of blue square represents the propensity to commit delinquency of the corresponding teenager. The darker the blue is, the more likely the corresponding teenager might commit a delinquency act.
 
 ## THINGS TO NOTICE
 
-(suggested things for the user to notice while running the model)
+we are proud of our work, but it doesn't mean it is perfect. In fact, one of the greatest imperfection comes from the foundation this model is built upon: Agnew’s book Juvenile Delinquency: Causes and Control. We don't want to question the validity of her work, but converting a pure statistical model into a program risks with inaccuracy. If time allows, we would rather conduct our own experiment.
 
-## THINGS TO TRY
-
-(suggested things for the user to try to do (move sliders, switches, etc.) with the model)
 
 ## EXTENDING THE MODEL
 
-(suggested things to add or change in the Code tab to make the model more complicated, detailed, accurate, etc.)
+If it is possbile, a proper money flow model should be added. It should be affected by local business factor, and will contribute to government annual tax income, which later will be used to channel into programs bringing down the deliquency rate.
 
-## NETLOGO FEATURES
-
-(interesting or unusual features of NetLogo that the model uses, particularly in the Code tab; or where workarounds were needed for missing features)
-
-## RELATED MODELS
-
-(models in the NetLogo Models Library and elsewhere which are of related interest)
 
 ## CREDITS AND REFERENCES
 
-(a reference to the model's URL on the web if it has one, as well as any other necessary credits, citations, and links)
+Developed and designed by Aiming Nie. Special support and research from Qi Wu, Guhan Wang.
+
+Anyone wants to modify the code can find the project in GitHub:
+https://github.com/windweller/Juvenile-delinquency-model
+
+Thanks for trying this out.
 @#$#@#$#@
 default
 true
